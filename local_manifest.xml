@@ -6,7 +6,7 @@
 
 <project path="device/xiaomi/violet" name="Joker-V2/android_device_xiaomi_violet" remote="github" revision="thirteen" />
 
-<project path="vendor/MiuiCamera" name="Joker-V2/ android_vendor_MiuiCamera" remote="gitlab" revision= "thirteen" /> 
+<project path="vendor/MiuiCamera" name="Joker-V2/android_vendor_MiuiCamera" remote="gitlab" revision= "thirteen" /> 
 
 <project path="vendor/xiaomi/violet" name="Joker-V2/android_vendor_xiaomi_violet" remote="github" revision="thirteen" />
 
