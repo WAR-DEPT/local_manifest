@@ -15,4 +15,4 @@
 <project path="prebuilts/clang/host/linux-x86/clang-r487747" name="Joker-V2/prebuilts_clang_host_linux-x86_clang-r487747" remote="gitlab" revision="master" /> 
 <project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gitlab" revision="main"
 
- </manifest>
+</manifest>
