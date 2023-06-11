@@ -3,7 +3,7 @@
 
 <remote  name="WAR-DEPT" fetch="https://github.com/WAR-DEPT" />
 
- <!-- Trees -->
+<!-- Trees -->
 
 <project path="device/xiaomi/miatoll" name="WAR-DEPT/_device_xiaomi_miatoll" remote="WAR-DEPT" revision="p404"  />
 
@@ -17,4 +17,4 @@
 
 <project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gitlab" revision="main" />
 
- </manifest>
+</manifest>
