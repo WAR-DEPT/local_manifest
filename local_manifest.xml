@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest> 
 
-<remote  name="WAR-DEPT" fetch="https://github.com/WAR-DEPT" />
+
 
 <!-- Trees -->
 
-<project path="device/xiaomi/miatoll" name="WAR-DEPT/_device_xiaomi_miatoll" remote="WAR-DEPT" revision="p404"  />
+<project path="device/xiaomi/miatoll" name="WAR-DEPT/_device_xiaomi_miatoll" remote="github" revision="p404"  />
 
-<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="WAR-DEPT" revision="p404"  />
+<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="github" revision="p404"  />
 
 <project path="kernel/xiaomi/miatoll" name="ArrowOS-Devices/android_kernel_xiaomi_miatoll" remote="github" revision="arrow-13.0"  />
 
 <!-- clang -->
   
 <project path="prebuilts/clang/host/linux-x86/clang-r487747" name="Joker-V2/prebuilts_clang_host_linux-x86_clang-r487747" remote="gitlab" revision="master" /> 
-
-<project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gitlab" revision="main" />
 
 </manifest>
