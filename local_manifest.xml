@@ -14,10 +14,7 @@
 
 <project path="prebuilts/clang/host/linux-x86/nexus-clang" name="nexus-clang" clone-depth="1" revision="nexus-15" remote="gitlab" /> 
 
-<project path="prebuilts/clang/host/linux-x86
-clang-r487747" name="Joker-V2
-prebuilts_clang_host_linux-x86_clang-r487747"
-remote="gitlab" revision="master" /> 
+
 
 </manifest>
 
