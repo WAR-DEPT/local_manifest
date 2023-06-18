@@ -13,8 +13,5 @@
 
 <!-- clang -->
 
-<project path="prebuilts/clang/host/linux-x86/nexus-clang" name="nexus-clang" clone-depth="1" revision="nexus-15" remote="gitlab" /> 
-<project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gitlab" revision="main" />
-
 </manifest>
 
