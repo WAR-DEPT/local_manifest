@@ -4,7 +4,7 @@
 
 <!-- Trees -->
 
-<project path="device/xiaomi/miatoll" name="C0smic-Lab/device_xiaomi_miatoll" remote="github" revision="los" />
+<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="github" revision="master" />
 <project path="device/xiaomi/sm6250-common" name="WAR-DEPT/device_xiaomi_sm6250-common" remote="github" revision="master" />
 <project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="github" revision="master"  />
 <project path="vendor/xiaomi/sm6250-common" name="C0smic-Lab/vendor_xiaomi_sm6250-common" remote="github" revision="13" />
