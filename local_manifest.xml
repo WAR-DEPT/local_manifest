@@ -13,7 +13,7 @@
 <project path="kernel/xiaomi/sm6250" name="Xtended-Devices/kernel_xiaomi_sm6250" remote="github" revision="xt" />
 <project path="hardware/xiaomi" name="c0smic-Lab/hardware_xiaomi" remote="github" revision="13" />
 
-<!--CAM----->
+<!-- CAM -->
 
 <project path="vendor/xiaomi/miuicamera" name="SonalSingh18/vendor_xiaomi_miuicamera" remote="gitlab" revision="thirteen" />
 
