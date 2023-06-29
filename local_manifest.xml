@@ -13,6 +13,10 @@
 <project path="kernel/xiaomi/sm6250" name="Xtended-Devices/kernel_xiaomi_sm6250" remote="github" revision="xt" />
 <project path="hardware/xiaomi" name="c0smic-Lab/hardware_xiaomi" remote="github" revision="13" />
 
+<!--CAM----->
+
+<project path="vendor/xiaomi/miuicamera" name="AtomicXZvendor_xiaomi_miuicamera" remote="github" revision="master" />
+
 <!-- clang -->
 <project path="prebuilts/clang/host/linux-x86clang-r487747" name="Joker-V2 prebuilts_clang_host_linux-x86_clang-r487747" remote="gitlab" revision="master" /> 
 
