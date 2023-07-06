@@ -4,6 +4,8 @@
 
 <!-- Trees -->
 
+<remote name="gitlab" fetch="https://gitlab.com" />
+
 <project path="device/Xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="github" revision="master" />
 <project path="device/xiaomi/sm6250-common" name="WAR-DEPT/device_xiaomi_sm6250-common" remote="github" revision="master" />
 <project path="vendor/xiaomi/miatoll" name="Xtended-Devices/vendor_xiaomi_miatoll" remote="github" revision="xt"  />
