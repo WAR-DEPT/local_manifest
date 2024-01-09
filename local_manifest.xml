@@ -15,4 +15,8 @@
 
 	<!-- clang -->
 	<project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="gitlab" revision="13.0" />
+
+       <!-- v4a -->
+        <project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX" remote="github" revision="v4a" />
+
 </manifest> 
