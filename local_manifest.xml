@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-                fetch="https://github.com" />
+             
+<remote name="github"fetch="https://github.com" />
 
         <!-- Sync trees -->
         <project path="device/samsung/j2y18lte" name="msm8917-dev/android_device_samsung_j2y18lte" remote="github" revision="lineage-19.1"/>
