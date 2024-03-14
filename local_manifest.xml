@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-             
-<remote name="github"fetch="https://github.com" />
+	<remote name="gitlab" fetch="https://gitlab.com" />
+	<remote name="gh" fetch="https://github.com" />		
+	
+	
+	<!-- Trees -->
+	<project path="device/xiaomi/miatoll" name="WAR-DEPT/device_xiaomi_miatoll" remote="gh" revision="11" />
+	<project path="vendor/xiaomi/miatoll" name="WAR-DEPT/vendor_xiaomi_miatoll" remote="gh" revision="11" />
+  <project path="kernel/xiaomi/miatoll" name="LineageOS/android_kernel_xiaomi_sm6250" remote="gh" revision="lineage-19.1" />
+	
 
-        <!-- Sync trees -->
-        <project path="device/samsung/j2y18lte" name="msm8917-dev/android_device_samsung_j2y18lte" remote="github" revision="lineage-19.1"/>
-        <project path="device/samsung/msm8917-common" name="msm8917-dev/android_device_samsung_msm8917-common" remote="github" revision="stagingj2y18lte-rebase" />
-        <project path="external/patchelf" name="msm8917-dev/patchelf" remote="github" revision="master" />
-        <project path="hardware/samsung" name="msm8917-dev/android_hardware_samsung" remote="github" revision="lineage-18.1" />
-        <project path="kernel/samsung/msm8917" name="msm8917-dev/android_kernel_samsung_msm8917" remote="github" revision="lineage-19.1" />
-        <project path="vendor/samsung" name="msm8917-dev/proprietary_vendor_samsung" remote="github" revision="lineage-19.1"/>
-
-</manifest>
+<manifest/>
